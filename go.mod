@@ -61,7 +61,7 @@ require (
 	github.com/prometheus/common v0.42.0 // indirect
 	github.com/prometheus/procfs v0.10.1 // indirect
 	github.com/rogpeppe/go-internal v1.11.0 // indirect
-	github.com/templexxx/cpu v0.1.0 // indirect
+	github.com/templexxx/cpu v0.1.1-0.20240303154708-598a14b050c5 // indirect
 	github.com/templexxx/xorsimd v0.4.2 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
